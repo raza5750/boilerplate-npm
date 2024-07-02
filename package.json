@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ali Raza",
+	"description": "A basic project which uses npm as a package manager",
+	"keywords": ["npm", "package.json", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +13,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/raza5750/boilerplate-npm"
-	}
+	},
+	"license": "MIT",
+	"version": "1.0.0"
 }
